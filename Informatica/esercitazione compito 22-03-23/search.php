@@ -53,8 +53,7 @@ if ($result) {
                 </tr>';
     }
     echo '</table>';
-}
-else {
+} else {
     echo "Error: " . $conn->error;
 }
 

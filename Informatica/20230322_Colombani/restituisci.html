@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <title>Restituzione</title>
+</head>
+<body class="container">
+<h1>Restituzione videogames</h1>
+<hr />
+
+<form method="POST" action="restituisci.php" class="was-validated">
+  <div class="form-group">
+    <label for="titolo">Inserisci il titolo del gioco:</label>
+    <input type=text name="titolo" id="titolo" class="form-control" placeholder="Inserisci il titolo..." required>
+    <div class="valid-feedback"></div>
+    <div class="invalid-feedback">Please fill out this field.</div>
+  </div>
+
+  <input type="submit" class="btn btn-primary" value="Invia">
+</form>
+</body>
+</html>
