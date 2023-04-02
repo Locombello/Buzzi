@@ -10,56 +10,107 @@ public class GestioneStudenti {
 
 	private Connection conn;
 	
-	public void inserisciStudente(String nome, String cognome, double voto) throws ClassNotFoundException, SQLException {
+	public String inserisciStudente(String nome, String cognome, double voto) throws ClassNotFoundException, SQLException {
 		conn = DatabaseConnection.initializeDatabase();
 		
-		String queryInsert = "INSERT INTO studenti(nome, cognome, voto)"
-						   + "VALUES (?, ?, ?)";		
-		PreparedStatement ps = conn.prepareStatement(queryInsert);
-		ps.setString(1, nome);
-		ps.setString(2, cognome);
-		ps.setDouble(3, voto);
+		String queryFind = """
+				SELECT id
+				FROM studenti
+				WHERE nome = ? AND cognome = ?
+				""";
+		PreparedStatement ps1 = conn.prepareStatement(queryFind);
+		ps1.setString(1, nome);
+		ps1.setString(2, cognome);
+		ResultSet rs = ps1.executeQuery();
 		
-		ps.executeUpdate();
+		if (rs.getRow() == 0) return "<h1>Studente gia' inserito</h1>";
 		
-		ps.close();
+		ps1.close();
+		
+		String queryInsert = """
+				INSERT INTO studenti(nome, cognome, voto)
+				VALUES (?, ?, ?);
+				""";		
+		PreparedStatement ps2 = conn.prepareStatement(queryInsert);
+		ps2.setString(1, nome);
+		ps2.setString(2, cognome);
+		ps2.setDouble(3, voto);
+		
+		int updates = ps2.executeUpdate();
+		
+		ps2.close();
 		conn.close();
+		
+		if (updates > 0) return "<h1>Studente inserito correttamente</h1>";
+		return "<h1>Errore: studente non inserito</h1>";
 	}
 	
 	public String mostraStudenti() throws ClassNotFoundException, SQLException {
 		conn = DatabaseConnection.initializeDatabase();
 		
-		String querySelect = "SELECT nome, cognome, voto"
-						   + "FROM studenti"
-						   + "ORDER BY nome DESC";
+		String querySelect = """
+				SELECT nome, cognome, voto
+				FROM studenti
+				ORDER BY voto DESC;
+				""";
 		PreparedStatement ps = conn.prepareStatement(querySelect);
 		
-		ResultSet rs = ps.executeQuery(querySelect);
+		ResultSet rs = ps.executeQuery();
 		ResultSetMetaData rsmd = rs.getMetaData();
 		
-		StringBuilder sb = new StringBuilder("");
-		sb.append("<table>");
-
-		int columnCount = rsmd.getColumnCount();
-		// writing headers
-		sb.append("<tr>");
-		for (int i = 1; i <= columnCount; i++) {
-			sb.append("<th>" + rsmd.getColumnName(columnCount) + "</th>");
-		}
-		sb.append("</tr>");
-		
+		StringBuilder str = new StringBuilder("<table style=\"border:1px solid;width: 50%\"><tr>");
+		for (int i = 1; i <= rsmd.getColumnCount(); i++) {
+	        str.append("<th style=\"border:1px solid\">").append(rsmd.getColumnName(i)).append("</th>");
+	    }
+		str.append("</tr>");
 		while (rs.next()) {
-			// writing data
-			sb.append("<tr>");
-			for (int i = 1; i <= columnCount; i++) {
-				sb.append("<th>" + rsmd.getColumnName(columnCount) + "</th>");
-			}
-			sb.append("</tr>");
+			str.append("<tr>");
+		    for (int i = 1; i <= rsmd.getColumnCount(); i++) {
+		        str.append("<td style=\"border:1px solid\">").append(rs.getString(i)).append("</td>");
+		    }
+		    str.append("</tr>");
 		}
+		str.append("</table>");
 		
-		sb.append("</table");
+		ps.close();
+		conn.close();
 		
-		return sb.toString();
+		return str.toString();
+	}
+	
+	public String cercaStudenti(double voto) throws ClassNotFoundException, SQLException {
+		conn = DatabaseConnection.initializeDatabase();
+		
+		String querySearch = """
+				SELECT nome, cognome, voto
+				FROM studenti
+				WHERE voto >= ?
+				ORDER BY cognome;
+				""";
+		PreparedStatement ps = conn.prepareStatement(querySearch);
+		ps.setDouble(1, voto);
+		
+		ResultSet rs = ps.executeQuery();
+		ResultSetMetaData rsmd = rs.getMetaData();
+		
+		StringBuilder str = new StringBuilder("<table style=\"border:1px solid;width: 50%\"><tr>");
+		for (int i = 1; i <= rsmd.getColumnCount(); i++) {
+			str.append("<th style=\"border:1px solid\">").append(rsmd.getColumnName(i)).append("</th>");
+		}
+		str.append("</tr>");
+		while (rs.next()) {
+			str.append("<tr>");
+			for (int i = 1; i <= rsmd.getColumnCount(); i++) {
+				str.append("<td style=\"border:1px solid\">").append(rs.getString(i)).append("</td>");
+			}
+			str.append("</tr>");
+		}
+		str.append("</table>");
+
+		ps.close();
+		conn.close();
+
+		return str.toString();
 	}
 	
 }

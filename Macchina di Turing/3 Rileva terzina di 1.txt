@@ -1,0 +1,17 @@
+(0,1,count1,-,>)
+(0,0,0,-,>)
+(0,-,NO,N,>)
+
+(count1,1,count2,-,>)
+(count1,0,0,-,>)
+(count1,-,NO,N,>)
+
+(count2,1,trovato,-,>)
+(count2,0,0,-,>)
+(count2,-,NO,N,>)
+
+(trovato,^-,trovato,-,>)
+(trovato,-,SI,S,>)
+
+(SI,-,SI,I,-)
+(NO,-,NO,O,-)

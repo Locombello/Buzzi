@@ -1,0 +1,1244 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "Mg4uAGCOPf7c96byZa6aV",
+      "type": "ellipse",
+      "x": 697,
+      "y": 363.66666666666663,
+      "width": 429,
+      "height": 86,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#228be6",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 641421532,
+      "version": 257,
+      "versionNonce": 1823101916,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "H_ebdHvyvViXibR3i6RSF"
+        }
+      ],
+      "updated": 1680021375933,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "H_ebdHvyvViXibR3i6RSF",
+      "type": "text",
+      "x": 780.8976474374386,
+      "y": 384.26107507564507,
+      "width": 260.85589599609375,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 841858020,
+      "version": 124,
+      "versionNonce": 1220175844,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680021375933,
+      "link": null,
+      "locked": false,
+      "text": "Luigi Pirandello",
+      "fontSize": 36,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Mg4uAGCOPf7c96byZa6aV",
+      "originalText": "Luigi Pirandello",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "DGsKvBNp7lxijRYDBhoie",
+      "type": "rectangle",
+      "x": 675,
+      "y": 346,
+      "width": 1848.4444444444441,
+      "height": 839.5000000000002,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1905717212,
+      "version": 552,
+      "versionNonce": 675111900,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680021548536,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "uinpzMPdndYH7CzP3f068",
+      "type": "text",
+      "x": 711.8888888888889,
+      "y": 465.11111111111103,
+      "width": 905.3236083984375,
+      "height": 700,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1879090780,
+      "version": 3455,
+      "versionNonce": 856665564,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680021375937,
+      "link": null,
+      "locked": false,
+      "text": "Nasce a Girgenti nel 1867 da una famiglia borghese agiata.\nIl padre dirigeva una miniera di zolfo.\n\nSi stabilisce a Roma con la moglie Maria Antonietta Portulano,\ndove scrive il suo primo romanzo, \"L'esclusa\", nel 1893.\nNel 1903, a causa di un allagamento della miniera, il padre\nfallisce e alla notizia la moglie ebbe una crisi e sprofondò\nnella follia.\n\nSi era iscritto al partito fascista, in cui vedeva una garanzia\ndi ordine, per poi però distaccarsi con disprezzo.\n\nPirandello vede la vita come un flusso continuo indistinto e\ntutto ciò che vi si stacca, tende a cristallizzarsi in una forma,\ncome avviene nell'identità personale dell'uomo.\n\nInfluenzato da Alfred Binet, Pirandello è convinto che ciascuna\ndi queste forme costituisca una maschera fittizia che noi stessi\ned il contesto sociale ci imponiamo, sotto alla quale c'è un fluire\nindistinto di stati in continua trasformazione.",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Nasce a Girgenti nel 1867 da una famiglia borghese agiata.\nIl padre dirigeva una miniera di zolfo.\n\nSi stabilisce a Roma con la moglie Maria Antonietta Portulano,\ndove scrive il suo primo romanzo, \"L'esclusa\", nel 1893.\nNel 1903, a causa di un allagamento della miniera, il padre\nfallisce e alla notizia la moglie ebbe una crisi e sprofondò\nnella follia.\n\nSi era iscritto al partito fascista, in cui vedeva una garanzia\ndi ordine, per poi però distaccarsi con disprezzo.\n\nPirandello vede la vita come un flusso continuo indistinto e\ntutto ciò che vi si stacca, tende a cristallizzarsi in una forma,\ncome avviene nell'identità personale dell'uomo.\n\nInfluenzato da Alfred Binet, Pirandello è convinto che ciascuna\ndi queste forme costituisca una maschera fittizia che noi stessi\ned il contesto sociale ci imponiamo, sotto alla quale c'è un fluire\nindistinto di stati in continua trasformazione.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "wuRAr8YCtY7SGAMcd9Jup",
+      "type": "ellipse",
+      "x": 2620.968253968253,
+      "y": 189.13888888888903,
+      "width": 574,
+      "height": 97,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#12b886",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 216157412,
+      "version": 746,
+      "versionNonce": 1746528860,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "UuVUXUwLlp3mw557pCeKC"
+        }
+      ],
+      "updated": 1680032756406,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "UuVUXUwLlp3mw557pCeKC",
+      "type": "text",
+      "x": 2725.9766668497455,
+      "y": 215.34421000134137,
+      "width": 364.1038818359375,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 987428572,
+      "version": 607,
+      "versionNonce": 781547876,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680032756406,
+      "link": null,
+      "locked": false,
+      "text": "Il fu Mattia Pascal",
+      "fontSize": 36,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "wuRAr8YCtY7SGAMcd9Jup",
+      "originalText": "Il fu Mattia Pascal",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "SLE1F_sWmM9Q-nPCVelHB",
+      "type": "rectangle",
+      "x": 2594.968253968253,
+      "y": 161.13888888888903,
+      "width": 1258.3333333333337,
+      "height": 1244.9523809523807,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 522475228,
+      "version": 941,
+      "versionNonce": 1252277980,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680032756406,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "-TjeoMuhwFneXJoq084fl",
+      "type": "text",
+      "x": 2634.682539682539,
+      "y": 311.71031746031747,
+      "width": 1208.6474609375,
+      "height": 1085,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1555500004,
+      "version": 4136,
+      "versionNonce": 1340648676,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680032756406,
+      "link": null,
+      "locked": false,
+      "text": "Parla di Mattia Pascal che vive in un paese immaginario della Liguria, Miragno.\nHa ereditato una grossa fortuna dal padre, ma viene derubato dall'amministratore,\nBatta Malagna, che si approfitta della sua inettitudine.\nMattia si vendica seducendo la sua nipote, Romilda, e la sposa.\nIl matrimonio si rivela però un inferno a causa della moglie e anche della suocera.\nE' costretto a lavorare in una biblioteca frequentata solo da topi.\nFugge verso l'America e:\n - vince alla roulette di Montecarlo;\n - la moglie e la suocera lo riconoscono nel cadavere\n   di un uomo affogato in uno stagno.\nMattia, libero da ogni trappola, è comunque troppo attaccato alla concezione comune\ndi identità e vuole crearsene dunque una nuova, quella di Adriano Meis, per cui inventa\nuna storia di fondo e un passato e cambia aspetto fisico.\nViaggia per l'Europa provando una sensazione di vuoto e solitudine e prova nostalgia\nper ciò che normalmente circonda una persona.\nIl suo errore è quindi quello di essersi costruito una forma falsa che è dunque\nancora più costrittiva e limitante.\nAdriano decide di reimmettersi nel flusso della vita e si trasferisce a Roma prendendo\nin affitto una stanza dalla famiglia di Anselmo Paleari.\nAdriano si innamora di sua figlia, Adriana, ma non può sposarla perché non è nessuno.\nViene derubato dal cognato di lei, Papiano, e non può denunciarlo.\nViene sfidato a duello dal pittore Bernaldez e non può accettare.\nAdriano quindi, vedendo che non può più riavere la vita comune di un tempo a causa\ndella sua nuova falsa identità decide di liberarsene simulando un suicidio e riprendere\ncosì la sua identità da Mattia Pascal.\nDecide di tornare alla vecchia trappola della famiglia, ma quando si ripresenta a casa\nla moglie si è risposata col suo migliore amico, Pomino.\nMattia si ritira nel suo vecchio lavoro e scrive la sua esperienza in quello che poi è\neffettivamente il romanzo.\nA finale discute con l'amico don Eligio cercando di capire qual è l'insegnamento della\nsua avventura e il prete risponde che fuori dalla legge non è possibile vivere.",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Parla di Mattia Pascal che vive in un paese immaginario della Liguria, Miragno.\nHa ereditato una grossa fortuna dal padre, ma viene derubato dall'amministratore,\nBatta Malagna, che si approfitta della sua inettitudine.\nMattia si vendica seducendo la sua nipote, Romilda, e la sposa.\nIl matrimonio si rivela però un inferno a causa della moglie e anche della suocera.\nE' costretto a lavorare in una biblioteca frequentata solo da topi.\nFugge verso l'America e:\n - vince alla roulette di Montecarlo;\n - la moglie e la suocera lo riconoscono nel cadavere\n   di un uomo affogato in uno stagno.\nMattia, libero da ogni trappola, è comunque troppo attaccato alla concezione comune\ndi identità e vuole crearsene dunque una nuova, quella di Adriano Meis, per cui inventa\nuna storia di fondo e un passato e cambia aspetto fisico.\nViaggia per l'Europa provando una sensazione di vuoto e solitudine e prova nostalgia\nper ciò che normalmente circonda una persona.\nIl suo errore è quindi quello di essersi costruito una forma falsa che è dunque\nancora più costrittiva e limitante.\nAdriano decide di reimmettersi nel flusso della vita e si trasferisce a Roma prendendo\nin affitto una stanza dalla famiglia di Anselmo Paleari.\nAdriano si innamora di sua figlia, Adriana, ma non può sposarla perché non è nessuno.\nViene derubato dal cognato di lei, Papiano, e non può denunciarlo.\nViene sfidato a duello dal pittore Bernaldez e non può accettare.\nAdriano quindi, vedendo che non può più riavere la vita comune di un tempo a causa\ndella sua nuova falsa identità decide di liberarsene simulando un suicidio e riprendere\ncosì la sua identità da Mattia Pascal.\nDecide di tornare alla vecchia trappola della famiglia, ma quando si ripresenta a casa\nla moglie si è risposata col suo migliore amico, Pomino.\nMattia si ritira nel suo vecchio lavoro e scrive la sua esperienza in quello che poi è\neffettivamente il romanzo.\nA finale discute con l'amico don Eligio cercando di capire qual è l'insegnamento della\nsua avventura e il prete risponde che fuori dalla legge non è possibile vivere.",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 4257,
+      "versionNonce": 398123492,
+      "isDeleted": false,
+      "id": "lC1LZYB1B3EyqBkI0Z5iw",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1649.7826402452263,
+      "y": 465.325396825397,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 856.3236694335938,
+      "height": 595,
+      "seed": 1350638940,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": null,
+      "updated": 1680021416181,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "La società gli appare come un'enorme pupazzata artificiosa\ne fittizia, in cui le forme di ognuno sono sentite come una\ntrappola.\n\nQuesta trappola si manifesta soprattutto nella famiglia, a\ncausa del suo carattere opprimente, e nel lavoro, monotono e\nfrustrante.\n\nDa questa trappola secondo Pirandello non c'è via di fuga.\nL'unica salvezza sta nell'irrazionale e nell'immaginazione.\n\nIl rifiuto della vita sociale costituisce la figura ricorrente\ndel forestiere della vita, ovvero colui che si isola dalla vita\nosservando gli uomini imprigionati nelle loro trappole con\natteggiamento umoristico.\nPirandello definisce questo comportamento come filosofia del\nlontano.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "La società gli appare come un'enorme pupazzata artificiosa\ne fittizia, in cui le forme di ognuno sono sentite come una\ntrappola.\n\nQuesta trappola si manifesta soprattutto nella famiglia, a\ncausa del suo carattere opprimente, e nel lavoro, monotono e\nfrustrante.\n\nDa questa trappola secondo Pirandello non c'è via di fuga.\nL'unica salvezza sta nell'irrazionale e nell'immaginazione.\n\nIl rifiuto della vita sociale costituisce la figura ricorrente\ndel forestiere della vita, ovvero colui che si isola dalla vita\nosservando gli uomini imprigionati nelle loro trappole con\natteggiamento umoristico.\nPirandello definisce questo comportamento come filosofia del\nlontano.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "u15ss8nYJshM4BhjulYSG",
+      "type": "line",
+      "x": 843.2777777777784,
+      "y": 501.5753968253972,
+      "width": 227.4999999999999,
+      "height": 1.25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1502956132,
+      "version": 85,
+      "versionNonce": 1285828580,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          227.4999999999999,
+          -1.25
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "type": "line",
+      "version": 188,
+      "versionNonce": 1658990684,
+      "isDeleted": false,
+      "id": "dCAFTBrYCPxENhzU0atMz",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1195.4664780444716,
+      "y": 604.3187972635269,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 382.4999999999998,
+      "height": 0,
+      "seed": 534062044,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          382.4999999999998,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 138,
+      "versionNonce": 1474073444,
+      "isDeleted": false,
+      "id": "DHS2Xwo7k2FBjbEpmXtRc",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1176.7164780444716,
+      "y": 639.3187972635269,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 141.24999999999977,
+      "height": 1.25,
+      "seed": 2104072412,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          141.24999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 186,
+      "versionNonce": 276022492,
+      "isDeleted": false,
+      "id": "k-WIzTHueFJ-qERHU_vgO",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 712.9915303862299,
+      "y": 711.2912098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 101.24999999999977,
+      "height": 0,
+      "seed": 1907899228,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          101.24999999999977,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 199,
+      "versionNonce": 893159140,
+      "isDeleted": false,
+      "id": "0rvuVu8BUm76Pc1rNTHL_",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 762.9915303862299,
+      "y": 675.0412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 71.24999999999977,
+      "height": 0,
+      "seed": 744529892,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          71.24999999999977,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 192,
+      "versionNonce": 803129692,
+      "isDeleted": false,
+      "id": "QgFTkStXFtlWQG91YB7GL",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1420.4915303862301,
+      "y": 677.5412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 104.99999999999977,
+      "height": 1.25,
+      "seed": 1871974372,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          104.99999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 466,
+      "versionNonce": 1498548836,
+      "isDeleted": false,
+      "id": "zlegT1VJv6u4zdE5W4buK",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1026.7415303862301,
+      "y": 712.5412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 312.4999999999998,
+      "height": 2.5,
+      "seed": 515749220,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021375938,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          312.4999999999998,
+          -2.5
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 228,
+      "versionNonce": 701397988,
+      "isDeleted": false,
+      "id": "P8YcEu9LXVlUQuwVuZfb9",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1162.9915303862301,
+      "y": 920.0412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 336.2499999999998,
+      "height": 0,
+      "seed": 974101988,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021378472,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          336.2499999999998,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 266,
+      "versionNonce": 689003868,
+      "isDeleted": false,
+      "id": "npDL1IQJpc1G6ZoYetw64",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1222.9915303862301,
+      "y": 953.7912098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 367.4999999999998,
+      "height": 1.25,
+      "seed": 836591460,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021388424,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          367.4999999999998,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 167,
+      "versionNonce": 40376796,
+      "isDeleted": false,
+      "id": "wesAqV61W5w_mMFY5YoHD",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 939.2415303862301,
+      "y": 1060.0412098586798,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 159.99999999999977,
+      "height": 1.25,
+      "seed": 37048796,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021394001,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          159.99999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 221,
+      "versionNonce": 922566620,
+      "isDeleted": false,
+      "id": "VHGXXL5-LkOE7Q9QdKWab",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1170.4915303862301,
+      "y": 1096.2912098586798,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 234.99999999999977,
+      "height": 1.25,
+      "seed": 1786805852,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021400032,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          234.99999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 236,
+      "versionNonce": 262162268,
+      "isDeleted": false,
+      "id": "HzfYn0u3nE9Zb4rOWmSEE",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2041.74153038623,
+      "y": 498.79120985867974,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 278.75,
+      "height": 0,
+      "seed": 1568728156,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021421352,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          278.75,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 158,
+      "versionNonce": 1772648036,
+      "isDeleted": false,
+      "id": "jwFwnijMyizALsHqzg0Dx",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1646.7415303862301,
+      "y": 576.2912098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 118.74999999999977,
+      "height": 2.5,
+      "seed": 1263991772,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021430473,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          118.74999999999977,
+          -2.5
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 211,
+      "versionNonce": 1865355612,
+      "isDeleted": false,
+      "id": "l-BG1OmJgmy7FaLU5Fg7g",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2264.24153038623,
+      "y": 642.5412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 175,
+      "height": 0,
+      "seed": 284489308,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021438553,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          175,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 164,
+      "versionNonce": 302875492,
+      "isDeleted": false,
+      "id": "0mqS7CElp2TsCh3IkRQAP",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2197.99153038623,
+      "y": 676.2912098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 141.24999999999977,
+      "height": 1.25,
+      "seed": 738869860,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021441384,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          141.24999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 212,
+      "versionNonce": 140398436,
+      "isDeleted": false,
+      "id": "DfgYO_1kESD-dEoogjtrg",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1760.4915303862301,
+      "y": 817.5412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 116.24999999999977,
+      "height": 1.25,
+      "seed": 1540323044,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021450330,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          116.24999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 152,
+      "versionNonce": 1849699548,
+      "isDeleted": false,
+      "id": "6zJvv0Sf2w91NMbpgBI5C",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2004.2415303862301,
+      "y": 817.5412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 141.24999999999977,
+      "height": 1.25,
+      "seed": 1861994716,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021452513,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          141.24999999999977,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 167,
+      "versionNonce": 540956388,
+      "isDeleted": false,
+      "id": "dLCjXMUTKRLsuW6IzEgpM",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2246.74153038623,
+      "y": 818.7912098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 170,
+      "height": 1.25,
+      "seed": 919248612,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021456113,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          170,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 210,
+      "versionNonce": 523359324,
+      "isDeleted": false,
+      "id": "p4EYwyIZFWE-jfCAilTuk",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1705.4915303862301,
+      "y": 923.7912098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 278.7499999999998,
+      "height": 1.25,
+      "seed": 597285476,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021462690,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          278.7499999999998,
+          -1.25
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 210,
+      "versionNonce": 1454731100,
+      "isDeleted": false,
+      "id": "Bgq17LGpUxbjAueLVms0j",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1652.9915303862301,
+      "y": 992.5412098586797,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 347.4999999999998,
+      "height": 3.75,
+      "seed": 80293732,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021471264,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          347.4999999999998,
+          -3.75
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 172,
+      "versionNonce": 1841604324,
+      "isDeleted": false,
+      "id": "p7ODdkq39qh0WcMD7AliI",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 2320.49153038623,
+      "y": 1028.7912098586798,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 167.5,
+      "height": 0,
+      "seed": 1166484444,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021477059,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          167.5,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "version": 178,
+      "versionNonce": 326427620,
+      "isDeleted": false,
+      "id": "eHmCNpf3hUTxmQa-H7k73",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1654.2415303862301,
+      "y": 1061.2912098586798,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 98.74999999999977,
+      "height": 2.5,
+      "seed": 996714844,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": null,
+      "updated": 1680021480712,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          98.74999999999977,
+          -2.5
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
