@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Second Grade Equation</string>
+    <string name="equation">ax² + bx + c = 0</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="result">Result</string>
+    <string name="reset">RESET</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="label">%1$d</string>
+    <string name="button">clicca</string>
+</resources>
