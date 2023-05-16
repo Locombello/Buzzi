@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$nomeDB="cibo_db";
+$nomeDB="ricette_db";
 
 $conn = new mysqli($servername, $username, $password, $nomeDB);
 

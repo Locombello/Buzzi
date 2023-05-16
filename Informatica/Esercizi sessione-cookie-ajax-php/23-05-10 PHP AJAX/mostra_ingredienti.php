@@ -1,10 +1,10 @@
 <?php
 
-include "connection.php";
-global $conn;
+include "config.php";
 
 $id = $_GET['q'];
-$result = $conn->query("SELECT ingredienti FROM ricetta WHERE id = $id");
+
+$result = $conn->query("SELECT ingredienti FROM cibo WHERE id = $id");
 
 if ($result->num_rows > 0) {
     $row = $result->fetch_assoc();
@@ -13,7 +13,6 @@ if ($result->num_rows > 0) {
     foreach ($ingredienti as $ingrediente) {
         echo '<li>' . trim($ingrediente) . '</li>';
     }
-
     echo '</ul>';
 } else {
     echo 'Cibo non trovato';
